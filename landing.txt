@@ -19,6 +19,7 @@
             <a href="">Proyectos</a>
             <a href="">Contacto</a>
             <a href="">Portafolio</a>
+            <a href="">Imagenes</a>
              </div>-->
         </nav>
         <div class="container">
