@@ -16,7 +16,7 @@
             <a href="" id="icono" class="icono">Menu</a>
             <!--<div class="enlances uno" id="enlaces"></div>
             <a href="">Inicio</a>
-            <a href="">Acerca de</a>
+            <a href="">Acerca de mi</a>
             <a href="">Contacto</a>
              </div>-->
         </nav>
